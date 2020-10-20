@@ -1,6 +1,6 @@
 #  responsive-portfolio-two-coding-boogaloo
 
-![READle-ME-this](https://img.shields.io/github/last-commit/AlexShafer/ responsive-portfolio-two-coding-boogaloo)
+![READle-ME-this](https://img.shields.io/github/last-commit/AlexShafer/responsive-portfolio-two-coding-boogaloo)
 
 ## Description
 
